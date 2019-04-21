@@ -186,4 +186,13 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	LHCP 1.6GHz Antenna →  https://www.thingiverse.com/thing:2627680 
 -	Good Watch →  https://goodwatch.org/posts/introducing-the-goodwatch/ 
 -	Wave Bubble Jammer →  http://www.ladyada.net/make/wavebubble/ 
--	1.6GHz QFH Bunny Antenna →  https://easyeda.com/notpike/QFH-Antenna/ 
+-	1.6GHz QFH Bunny Antenna →  https://easyeda.com/notpike/QFH-Antenna/
+
+####        == Baseband ==
+-   802.11 and LTE baseband in Chisel → https://github.com/ucberkeley-ee290c/fa18-modem
+
+####        == Antenna design ==
+-   Antenna theory → http://www.antenna-theory.com
+
+####        == Signals ==
+-   Known signals database → https://www.sigidwiki.com/wiki/Database 
